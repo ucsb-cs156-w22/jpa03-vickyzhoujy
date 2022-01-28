@@ -1,6 +1,6 @@
 # demo-spring-react-example: dsre
 
-Storybook is here:
+Storybook is here:-
 * Production: <https://ucsb-cs156-w22.github.io/jpa03-vickyzhoujy-docs/>
 * QA:  <https://ucsb-cs156-w22.github.io/jpa03-vickyzhoujy-docs-qa/>
 
